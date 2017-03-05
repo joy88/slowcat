@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SlowCat</string>
+    <string name="connect">Connect\n</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect\n</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="status">Status:</string>
+    <string name="title">Please touch \"Connect\" button to start vpn service.</string>
+    <string name="bottom">Note: Connection will be stabilized in 30 seconds.</string>
+    <string name="temsofusetext">By clicking Accept button you accept to use this application for only legal things.</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="wifienabled">Wi-Fi is enabled please disable it and try again.</string>
+    <string name="termsofusage">Terms of Usage</string>
+    <string name="cloes">Close</string>
+    <string name="wificonnected">Connected to a wireless network. Please disconnect and try again. </string>
+    <string name="notify_text">SlowCat is running.</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+
+</resources>

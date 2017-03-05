@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SlowCat</string>
+    <string name="bottom">Not: Bağlantı 30 saniye içerisinde stabil hale gelecektir.</string>
+    <string name="connect">Bağlan\n</string>
+    <string name="connected">Bağlanıldı.</string>
+    <string name="disconnect">Bağlantıyı Kes\n</string>
+    <string name="disconnected">Bağlantı kesildi.</string>
+    <string name="status">Durum:</string>
+    <string name="title">Lütfen vpn servisini başlatmak için \"Bağlan\" butonuna dokununuz.</string>
+    <string name="accept">Kabul Et</string>
+    <string name="cancel">İptal</string>
+    <string name="temsofusetext">Kabul Et butonuna tıklayarak bu uygulamayı sadece bulunduğunuz ülkenin yasalarına uygun olacak şekilde kullanacağınızı kabul etmiş olursunuz.</string>
+    <string name="termsofusage">Kullanım Koşulları</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="wificonnected">Bir kablosuz ağa bağlanıldı. Lütfen bağlantıyı kesin ve tekrar deneyin.</string>
+    <string name="wifienabled">Kablosuz ağ aktifleştirildi. Lütfen kablosuz ağı devre dışı bırakın.</string>
+    <string name="cloes">Kapat</string>
+    <string name="notify_text">SlowCat çalışıyor.</string>
+    <string name="download">İndirme</string>
+    <string name="upload">Yükleme</string>
+</resources>

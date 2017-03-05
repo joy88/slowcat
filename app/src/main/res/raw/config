@@ -1,0 +1,8 @@
+session_name SlowCat
+    welcome_info SlowCat is started!
+    ip 10.8.0.2
+    dns 8.8.4.4
+    dns 8.8.8.8
+    dns_ttl 120
+    route 0.0.0.0/0
+    proxy_domain wap.in

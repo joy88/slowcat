@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#444444</color>
+    <color name="colorPrimaryDark">#323232</color>
+    <color name="colorAccent">#949494</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorHint">#cccccc</color>
+    <color name="common_signin_btn_dark_text_default">#FFFFFF</color>
+</resources>
